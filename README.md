@@ -2,7 +2,7 @@
  - Treinando o Efeito Modal
 # A página Principal
 
- <img src="https://scontent-gru1-1.xx.fbcdn.net/v/t1.0-9/118516930_2828420274053584_3117690494260749700_o.jpg?_nc_cat=101&_nc_sid=730e14&_nc_eui2=AeFeD_0zKQavnyAECKGJSZQbWTsMzcxLiMVZOwzNzEuIxVwf-cxcEwRsGuwW6yXKMHbue5De7CgwZFmVny1kAhlx&_nc_ohc=8TdJYhLdUywAX9_Z0GE&_nc_ht=scontent-gru1-1.xx&oh=e7b8aa6e00d8fdcbf7166cf9e0a54b6a&oe=5F6D2661">
+ <img src="https://scontent.fcgh2-1.fna.fbcdn.net/v/t1.0-9/118516930_2828420274053584_3117690494260749700_o.jpg?_nc_cat=101&_nc_sid=730e14&_nc_eui2=AeFeD_0zKQavnyAECKGJSZQbWTsMzcxLiMVZOwzNzEuIxVwf-cxcEwRsGuwW6yXKMHbue5De7CgwZFmVny1kAhlx&_nc_ohc=IK56L8G6pKMAX9NuNGJ&_nc_ht=scontent.fcgh2-1.fna&oh=7bbec9d6efc3cff6b534405c39b1675b&oe=5F94B361">
 
  ## Ao clicar no icone o efeito modal é ativado
 
